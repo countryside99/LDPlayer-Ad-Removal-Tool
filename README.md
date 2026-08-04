@@ -1,4 +1,4 @@
-# PylaAndroid
+# LDPlayer-Ad-Removal-Tool
 
 ## 🤝 Responsible AI Usage
 <p align="center">
@@ -10,7 +10,7 @@
 LD-Player-Ad-Removal-Tool is committed to transparent and responsible AI development and follows the principles of the **REAL Rating** framework for disclosing AI usage.
 
 [![Learn more](https://img.shields.io/badge/Learn%20More-REAL%20Rating-0B6E99?style=for-the-badge&logoColor=white)](https://www.realgoodai.org/real-rating)
-# LDPlayer-Ad-Removal-Tool
+# What is LD-Player-Ad-Removal-Tool?
 A lightweight 1-click batch script to completely block startup, sidebar, and in-app banner ads on LDPlayer emulator.
 # How to use
 - Download the script from repository or from releases
